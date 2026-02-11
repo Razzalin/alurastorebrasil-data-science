@@ -42,3 +42,16 @@ A decisão foi embasada em dados quantitativos e visualizações que facilitam a
 - Pandas
 - Matplotlib
 - Google Colab
+
+## ▶️ Como Executar o Projeto
+
+1. Faça o download ou clone este repositório:
+git clone [https://github.com/seu-usuario/alurastorebrasil-data-science.git](https://github.com/seu-usuario/alurastorebrasil-data-science.git)
+
+2. Instale as bibliotecas necessárias:
+pip install pandas matplotlib
+
+3. Abra o arquivo `alurastorebrasil.ipynb` no Google Colab ou Jupyter Notebook.
+
+4. Execute as células em ordem para reproduzir a análise.
+
